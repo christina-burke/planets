@@ -1,0 +1,3 @@
+[submodule "planets_court"]
+	path = planets_court
+	url = https://github.com/courtney-weir/planets.git
